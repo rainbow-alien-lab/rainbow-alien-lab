@@ -32,9 +32,14 @@
 </div>
 
 ---
-
-### TRANSMISSION_FROM_THE_TROPICAL_SECTOR`
-
+```
+ 　　˚　　₊⊹　⠀　⠀  　　,　　　　　　.　　　                    ✦         ݁ ˖
+　　　　　　　.𖥔 ݁ ˖　　                          　　　　. 
+-----------------✩⋆--------⭑✧⭑--------⋆✩⋆-------⋆✩⋆--------⭑✧⭑--------⋆✩---------------
+　　 ๋࣭ ࣪ ˖　　                        ۪      𝅄   　⠀　                ₊⊹                 
+　　　*⠀　　⠀  　⠀✦⠀         ๋࣭ ࣪ ˖         　 ☾　　　⠀✦⠀　      ๋࣭ ࣪ ˖              ✦⠀
+```
+### TRANSMISSION_FROM_THE_TROPICAL_SECTOR
 ```text
           .        .       *       .         _..._
       *        .       .         *        .-'     '-.
@@ -64,8 +69,14 @@ Every blueprint, PCB schematic, spatial algorithm, and late-night research journ
 ```
 
 ---
-
-### ACTIVE_R&D_PROTOTYPES [LIVE_TELEMETRY]`
+```
+ 　　˚　　₊⊹　⠀　⠀  　　,　　　　　　.　　　                    ✦         ݁ ˖
+　　　　　　　.𖥔 ݁ ˖　　                          　　　　. 
+-----------------✩⋆--------⭑✧⭑--------⋆✩⋆-------⋆✩⋆--------⭑✧⭑--------⋆✩---------------
+　　 ๋࣭ ࣪ ˖　　                        ۪      𝅄   　⠀　                ₊⊹                 
+　　　*⠀　　⠀  　⠀✦⠀         ๋࣭ ࣪ ˖         　 ☾　　　⠀✦⠀　      ๋࣭ ࣪ ˖              ✦⠀
+```
+### ACTIVE_R&D_PROTOTYPES
 ```
                 _____
              ,-"     "-.
@@ -113,9 +124,15 @@ Real-time diagnostic telemetry on the two flagship XR prototypes currently activ
 * 👁️ **`EYE_TRACKING_&_HAPTICS:`** Dual IR camera array breadboarded; dynamic foveated rendering pipeline initiated.
 
 ---
-
-### ISLAND_LAB_ARCHIVES // SECTOR_MAP`
-
+```
+ 　　˚　　₊⊹　⠀　⠀  　　,　　　　　　.　　　                    ✦         ݁ ˖
+　　　　　　　.𖥔 ݁ ˖　　                          　　　　. 
+-----------------✩⋆--------⭑✧⭑--------⋆✩⋆-------⋆✩⋆--------⭑✧⭑--------⋆✩---------------
+　　 ๋࣭ ࣪ ˖　　                        ۪      𝅄   　⠀　                ₊⊹                 
+　　　*⠀　　⠀  　⠀✦⠀         ๋࣭ ࣪ ˖         　 ☾　　　⠀✦⠀　      ๋࣭ ࣪ ˖              ✦⠀
+```
+### ISLAND_LAB_ARCHIVES // SECTOR_MAP
+```
                                          )  (  (    (
                                          (  )  () @@  )  (( (
                                      (      (  )( @@  (  )) ) (
@@ -137,6 +154,7 @@ Real-time diagnostic telemetry on the two flagship XR prototypes currently activ
     |   |  /   /   ()  ))   ))   .( ( ( ) ). ( !!  )( !! ) ((   ))  ..
     |   |_<   /   ( ) ( (  ) )   (( )  )).) ((/ |  (  | \(  )) ((. ).
 ____<_____\\__\__(___)_))_((_(____))__(_(___.oooO_____Oooo.(_(_)_)((_
+```
 Navigate through open-source discoveries, hardware schematics, and scientific field notes:
 
 | `SECTOR_ID` | `DOMAIN_CLASS` | `CONTAINED_DATA_PAYLOAD` |
@@ -147,8 +165,14 @@ Navigate through open-source discoveries, hardware schematics, and scientific fi
 | 🌴 **`/prism-utilities`** | `LAB_TOOLS` | Lens calibration grids, telemetry dashboards & microcontroller flashers. |
 
 ---
-
-### SCIENTIFIC_INSTRUMENTS_&_TECH_STACK`
+```
+ 　　˚　　₊⊹　⠀　⠀  　　,　　　　　　.　　　                    ✦         ݁ ˖
+　　　　　　　.𖥔 ݁ ˖　　                          　　　　. 
+-----------------✩⋆--------⭑✧⭑--------⋆✩⋆-------⋆✩⋆--------⭑✧⭑--------⋆✩---------------
+　　 ๋࣭ ࣪ ˖　　                        ۪      𝅄   　⠀　                ₊⊹                 
+　　　*⠀　　⠀  　⠀✦⠀         ๋࣭ ࣪ ˖         　 ☾　　　⠀✦⠀　      ๋࣭ ࣪ ˖              ✦⠀
+```
+### SCIENTIFIC_INSTRUMENTS_&_TECH_STACK
 
 ```yaml
 [PHOTONICS_&_HARDWARE] :: KiCad (in-progress....)
@@ -158,18 +182,35 @@ Navigate through open-source discoveries, hardware schematics, and scientific fi
 ---
 
 <div align="center">
-
-### BEAM_A_SIGNAL_TO_THE_LAB`
-
+```
+ 　　˚　　₊⊹　⠀　⠀  　　,　　　　　　.　　　                    ✦         ݁ ˖
+　　　　　　　.𖥔 ݁ ˖　　                          　　　　. 
+-----------------✩⋆--------⭑✧⭑--------⋆✩⋆-------⋆✩⋆--------⭑✧⭑--------⋆✩---------------
+　　 ๋࣭ ࣪ ˖　　                        ۪      𝅄   　⠀　                ₊⊹                 
+　　　*⠀　　⠀  　⠀✦⠀         ๋࣭ ࣪ ˖         　 ☾　　　⠀✦⠀　      ๋࣭ ࣪ ˖              ✦⠀
+```
+  
+### BEAM_A_SIGNAL_TO_THE_LAB
 Want to collaborate on waveguide physics, test OpenXR drivers, or transmit a greeting from across the galaxy?
 
 ```text
-        _.---._
-      .'       '.
-  _.-~===========~-._
- (___________________)   >>> [ FOLLOW & TRANSMIT ON GITHUB ] <<<
-       \_______/
-        /  |  \
+                                                      _____
+                         .() .'()                    ( .--.)
+                 .---.  / / / .'                     /.)  '
+               .'     )/ /-/ /  .'()                ((/>
+             .'    .---.( / (`./  .'                </)\/>
+           .'     (-./  \\\_//  .'     _____         </\ \/>
+  ,-._.   /        <\//  \`--\_/\    .'     `-._       <,. \/>
+,,== \> \/    .'.-' <\//  \   |  `---\    `--.  `-._/>_/>/>  )
+    `(__/  (  |-<____<\/ .-')-+'``'`'`\       `.   _ __ __ _ \
+        \.-<\ )--------)/  /      ///--\        )-' \> \> \>`'
+          / )/        // /'`-----'      `-.    (___        `-._  _
+        ,( </        (/ /                  \____   )   /`-._   `' )
+         '           //'                        ) /`--'     `-.  (
+                  ,. (,                    ,.__/ (           ,_>  )
+                / ||-- \                  / | ---\`         //---'
+                                                       g o o d w i n
+
 ```
 
 [**`[ 👾 FOLLOW @RAY ON GITHUB ]`**](https://www.linkedin.com/in/mohamedelhawy/)
