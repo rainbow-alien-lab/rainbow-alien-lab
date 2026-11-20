@@ -65,7 +65,7 @@ Every blueprint, PCB schematic, spatial algorithm, and late-night research journ
 
 ---
 
-### `02 //` 🌈 `ACTIVE_R&D_PROTOTYPES [LIVE_TELEMETRY]`
+### ACTIVE_R&D_PROTOTYPES [LIVE_TELEMETRY]`
 ```
                 _____
              ,-"     "-.
@@ -98,6 +98,7 @@ Real-time diagnostic telemetry on the two flagship XR prototypes currently activ
 * 💎 **`PHOTONICS_&_OPTICS:`** Micro-LED rainbow diffraction waveguide tested under direct equatorial sunlight.
 * 🧠 **`SPATIAL_SLAM_&_FIRMWARE:`** 6DoF inside-out tracking running smoothly on ultra-low-power edge silicon.
 * 🥥 **`FRAME_&_THERMAL_ERGONOMICS:`** Salt-resistant, UV-cured 3D-printed frame v3 undergoing heat-dissipation trials.
+* 👓 **`PROTOTYPES:`** Two, [Blue Ocean🌊] & [Red Rose🌹]
 
 ---
 
@@ -114,14 +115,14 @@ Real-time diagnostic telemetry on the two flagship XR prototypes currently activ
 
 ---
 
-### `03 //` 🗺️ `ISLAND_LAB_ARCHIVES // SECTOR_MAP`
+### ISLAND_LAB_ARCHIVES // SECTOR_MAP`
 
 Navigate through open-source discoveries, hardware schematics, and scientific field notes:
 
 | `SECTOR_ID` | `DOMAIN_CLASS` | `CONTAINED_DATA_PAYLOAD` |
 | :--- | :--- | :--- |
 | 🛠️ **`/hardware-blueprints`** | `ELECTRONICS & CAD` | KiCad schematics, BOMs, Gerber files, optical mounts & `.STEP`/`.STL` files. |
-| 💻 **`/xr-spatial-core`** | `FIRMWARE & GRAPHICS` | OpenXR runtimes, SLAM math, distortion shaders, drivers & dev SDKs. |
+| 💻 **`/software-source-code`** | `FIRMWARE & GRAPHICS` | OpenXR runtimes, SLAM math, distortion shaders, drivers & dev SDKs. |
 | 📓 **`/alien-science-journals`** | `RESEARCH & LOGS` | Optical physics notes, experiment benchmarks, teardowns & failure logs. |
 | 🌴 **`/prism-utilities`** | `LAB_TOOLS` | Lens calibration grids, telemetry dashboards & microcontroller flashers. |
 
@@ -130,16 +131,15 @@ Navigate through open-source discoveries, hardware schematics, and scientific fi
 ### `04 //` 🧪 `SCIENTIFIC_INSTRUMENTS_&_TECH_STACK`
 
 ```yaml
-[PHOTONICS_&_HARDWARE] :: KiCad • Fusion 360 • Blender • ESP32 / STM32 • FPGA • Optical Raytracing
-[XR_&_GRAPHICS_ENGINE] :: OpenXR • C++ • Rust • Vulkan / OpenGL • GLSL / HLSL Rainbow Shaders
-[SPATIAL_AI_&_VISION]  :: OpenCV • Python • PyTorch • Visual-Inertial SLAM • Sensor Fusion (IMU)
+[PHOTONICS_&_HARDWARE] :: KiCad (in-progress....)
+[XR_&_GRAPHICS_ENGINE] :: C++ • OpenGL / GLSL (in-progress....)
 ```
 
 ---
 
 <div align="center">
 
-### `05 //` 📡 `BEAM_A_SIGNAL_TO_THE_LAB`
+### BEAM_A_SIGNAL_TO_THE_LAB`
 
 Want to collaborate on waveguide physics, test OpenXR drivers, or transmit a greeting from across the galaxy?
 
@@ -152,7 +152,7 @@ Want to collaborate on waveguide physics, test OpenXR drivers, or transmit a gre
         /  |  \
 ```
 
-[**`[ 👾 FOLLOW @RAY ON GITHUB ]`**](https://github.com)
+[**`[ 👾 FOLLOW @RAY ON GITHUB ]`**](https://www.linkedin.com/in/mohamedelhawy/)
 
 `[EOF]` — *Compiled with 👽 alien curiosity, ☀️ tropical sunshine, and 🌈 open-source love.*
 
